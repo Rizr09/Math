@@ -1,6 +1,6 @@
 import numpy as np
 
-print("Kalkulator matriks 3x3")
+print("  Kalkulator matriks")
 print("  ==================")
 print("      | a b c |")
 print("      | d e f |")
